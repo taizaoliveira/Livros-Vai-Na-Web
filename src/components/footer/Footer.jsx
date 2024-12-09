@@ -11,9 +11,9 @@ export default function Footer(){
             <section className={s.contatosFooter}>
                 <p>4002-8922</p>
                 <nav>
-                    <a href="https://www.instagram.com/taiza.zip/"><img src={logoFacebook} alt="flogoFacebook" /></a>
-                    <a href="https://www.instagram.com/taiza.zip/"><img src={logoTwitter} alt="logoTwitter" /></a>
-                    <a href="https://www.instagram.com/taiza.zip/"><img src={logoYoutube} alt="logoYoutube" /></a>
+                    <a href="https://web.facebook.com/?locale=pt_BR&_rdc=1&_rdr"><img src={logoFacebook} alt="flogoFacebook" /></a>
+                    <a href="https://x.com/?lang=pt-br"><img src={logoTwitter} alt="logoTwitter" /></a>
+                    <a href="https://www.youtube.com/"><img src={logoYoutube} alt="logoYoutube" /></a>
                     <a href="https://www.linkedin.com/in/taizapaula/"><img src={logoLinkedin} alt="logoLinkedin" /></a>
                     <a href="https://www.instagram.com/taiza.zip/"><img src={logoInstagram} alt="logoInstagram" /></a>
                 </nav>
